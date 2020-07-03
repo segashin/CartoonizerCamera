@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FilterCamera</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="could_not_save_the_photo">Could not save the photo</string>
+    <string name="required_to_use_camera">Required to use camera</string>
+    <string name="required_to_select_photos">Required to select photos</string>
+    <string name="camera_permission_granted">CAMERA permission granted</string>
+    <string name="camera_permission_not_granted">CAMERA permission NOT granted</string>
+    <string name="shadow_leve">Shadow:</string>
+    <string name="shadow_0">Shadow: 0</string>
+    <string name="abstraction_0">Abstraction: 0</string>
+    <string name="abstraction_level">Abstraction:</string>
+    <string name="apply">Apply</string>
+    <string name="edge">Edge</string>
+    <string name="edge_level">Edge:</string>
+    <string name="rotate">Rotate</string>
+    <string name="save">save</string>
+    <string name="image_saved">Image saved as </string>
+    <string name="ext_strage_granted">EXTERNAL_STORAGE permission granted</string>
+    <string name="ext_strage_not_granted">EXT_STORAGE not granted</string>
+    <string name="image_save_failed">Image save failed</string>
+</resources>
