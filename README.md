@@ -10,3 +10,6 @@ This app converts a photo to a cartoon-like image by applying multiple image fil
 	OpenCV 4.3.0	https://github.com/opencv/opencv/releases
 		・This module will be included in the apk file
 	Android Minimum SDK Version 28 or greater
+
+More details at:
+https://docs.google.com/presentation/d/18kjrGO3BNL1AMgycMdiKGHJmUNEOBONnqWQA9ATcCvw/edit?usp=sharing
